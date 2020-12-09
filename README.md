@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbalvansh%2FAnalyzing-Facial-Recognition-Algorithms&count_bg=%23F1B500&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 # Analyzing-Facial-Recognition-Algorithms
 
 ## This project has been implemented as a part of the course - Advanced Machine Learning (ECE 5424/CS 5824)
